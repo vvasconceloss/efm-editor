@@ -1,4 +1,4 @@
-# EFM Edit: Database editor for [EFM2025](https://github.com/vvasconceloss/elite-football-manager) 
+# EFM Editor: Database editor for [EFM2025](https://github.com/vvasconceloss/elite-football-manager) 
 
 EFM Edit is specialized software developed for the EFM2025 project, providing a tailored solution for managing game database files. This tool enables users to seamlessly open, edit, and manipulate .efm files with custom functionality designed specifically for the game’s unique requirements.
 
