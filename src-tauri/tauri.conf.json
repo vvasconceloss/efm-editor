@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "EFM Edit",
+        "title": "EFM Editor",
         "width": 800,
         "height": 600,
         "fullscreen": true
